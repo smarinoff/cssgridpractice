@@ -1,0 +1,8 @@
+.wrapper {
+    display: grid;
+}
+
+.wrapper div {
+    background-color: bisque;
+    color: white;
+}
