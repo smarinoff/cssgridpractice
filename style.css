@@ -12,6 +12,11 @@
 }
 
 .item3 {
+    grid-row: 2/3;
+}
+
+.item6 {
+    grid-column: 2/4;
     grid-row: 2/4;
 }
 
