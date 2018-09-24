@@ -1,8 +1,14 @@
 .wrapper {
     display: grid;
+    grid-template-columns: 33.3% 33.3% 33.3%;
+    grid-template-rows: 40vh 20vh;
 }
 
 .wrapper div {
-    background-color: bisque;
+    background-color: firebrick;
     color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    margin: 1px;
 }
